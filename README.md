@@ -5,7 +5,7 @@ Based on awesome **[VSCode Material Theme](https://github.com/equinusocio/vsc-ma
 
 3 themes available: Oceanic, Darker, Palenight
 
-![Material Theme Google](https://github.com/CharlieEtienne/material-google/blob/master/screenshot.png)
+![Material Theme Google](https://github.com/CharlieEtienne/material-google/blob/master/material-dark-google.png)
 
 ## How to use it
 

@@ -2,6 +2,7 @@
 A Material Dark Theme for Google
 
 Based on awesome **[VSCode Material Theme](https://github.com/equinusocio/vsc-material-theme)** by **Mattia Astorino**
+
 3 themes available: Oceanic, Darker, Palenight
 
 ![Material Theme Google](https://github.com/CharlieEtienne/material-google/blob/master/screenshot.png)
